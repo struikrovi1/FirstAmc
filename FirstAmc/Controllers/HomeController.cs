@@ -22,7 +22,7 @@ namespace FirstAmc.Controllers
         {
             ViewData["hehehehe"] = "heehehe";
            
-            return View();
+            return View(); 
         } 
 
         public IActionResult About()
